@@ -17,7 +17,7 @@ Este proyecto permite crear, listar, eliminar y marcar tareas como completadas. 
 
 ## Cómo ejecutar
 1. Clonar el repositorio
-    git clone https://github.com/RamiroHH/task_manager.git
+    git clone https://github.com/RamiroHH/Task-Manager.git
 2. ejecutar:
    main.py
 
